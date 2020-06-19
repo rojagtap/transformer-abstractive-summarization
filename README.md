@@ -9,6 +9,6 @@ Abstractive Text Summarization using Transformer
 
 Blog Links:
 
-Part-I: https://towardsdatascience.com/transformers-demystified-part-i-the-architecture-59eb8d8b7328
+Part-I: https://towardsdatascience.com/transformers-explained-65454c0f3fa7
 
-Part-II: https://towardsdatascience.com/transformers-demystified-part-ii-the-implementation-45257275f6c9
+Part-II: https://medium.com/swlh/abstractive-text-summarization-using-transformers-3e774cc42453
