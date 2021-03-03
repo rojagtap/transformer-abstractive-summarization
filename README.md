@@ -12,3 +12,6 @@ Blog Links:
 Part-I: https://towardsdatascience.com/transformers-explained-65454c0f3fa7
 
 Part-II: https://medium.com/swlh/abstractive-text-summarization-using-transformers-3e774cc42453
+
+
+License: [Apache License 2.0](https://github.com/tensorflow/docs/blob/master/LICENSE)
