@@ -1,4 +1,4 @@
-# abstractive_summarizer
+# transformer-abstractive-summarization
 Abstractive Text Summarization using Transformer
 
 - Implementation of the state of the art Transformer Model from "Attention is all you need", Vaswani et. al.
